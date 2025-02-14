@@ -1,8 +1,12 @@
-# React + Vite
+## NewsApp is a news aggregator that fetches real-time news from a public API. Users can browse news by category and read full articles. Built with React.js, Bootstrap, and JavaScript, it offers a clean and responsive UI.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Features
 
-Currently, two official plugins are available:
+    -Fetches live news from the API
+    -Category-based news filtering
+    -Responsive and user-friendly UI
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+
+    -Frontend: React.js, HTML5, CSS3, Bootstrap
+    -API: NewsAPI
